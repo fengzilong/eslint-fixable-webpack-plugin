@@ -1,2 +1,2 @@
 # eslint-fixable-webpack-plugin
-Opinionated ESLint webpack plugin with better DX
+Opinionated ESLint webpack plugin with better UX
